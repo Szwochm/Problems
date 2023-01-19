@@ -12,7 +12,7 @@
 
 ### Do docker containers use less resources than hosting a vm?
 
-Yes, according to [1](https://www.backblaze.com/blog/vm-vs-containers/), the following is a comparison of docker vs VMs. **Note on Windows, docker uses [WSL2](https://docs.docker.com/desktop/install/windows-install/) or hyper-v. 
+Yes, according to [1](https://www.backblaze.com/blog/vm-vs-containers/), the following is a comparison of docker vs VMs. **Note on Windows, docker uses [WSL2 or hyper-v.](https://docs.docker.com/desktop/install/windows-install/) 
 
 
 ![image](https://user-images.githubusercontent.com/1501624/213533002-a7335042-6c52-42bd-bf0a-0d4a4007957e.png)
