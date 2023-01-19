@@ -2,7 +2,7 @@
 
 1. I am taking classes that need the following IDEs
 
-Intellij, Android Studio, Eclipse, and Visual Code.
+    Intellij, Android Studio, Eclipse, and Visual Code.
 
 2. I am trying to use minimal resources as I work on school computers, personal computers, and my laptop. I want to put the enviroment on a harddrive that I can just plug n play on any device
 
