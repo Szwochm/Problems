@@ -45,7 +45,7 @@ No answer yet.
 
 
 
-## Proposed Solution \#2 Run Environment on Bootable drives
+## Proposed Solution \#2 Run Environment on Bootable drives or as a VHD
 
 Someone recommended using [IODD ST400](https://www.youtube.com/watch?v=ZSywLblIYa0)
 
