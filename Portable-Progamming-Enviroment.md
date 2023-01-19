@@ -40,4 +40,6 @@ There are some security concerns with libraries, and the lack of isolation docke
 
 [MicroNugget: What is Docker and How Does it Work? | CBT Nuggets](https://www.youtube.com/watch?v=aLipr7tTuA4)
 
+[Docker Vs VM -backblaze.com](https://www.backblaze.com/blog/vm-vs-containers/)
+
 
