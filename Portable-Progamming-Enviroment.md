@@ -43,6 +43,8 @@ No answer yet.
 3. Can I plug this into any computer with docker and it works reasonably well?
 
 
+
+
 ## Proposed Solution \#2 Run Environment on Bootable drives
 
 Someone recommended using [IODD ST400](https://www.youtube.com/watch?v=ZSywLblIYa0)
@@ -55,7 +57,8 @@ Someone recommended using [IODD ST400](https://www.youtube.com/watch?v=ZSywLblIY
 
 ## References
 
-
+[IODD ST400](https://www.youtube.com/watch?v=ZSywLblIYa0)
 [Docker Vs VM -backblaze.com](https://www.backblaze.com/blog/vm-vs-containers/)
+[Docker Windows Install](https://docs.docker.com/desktop/install/windows-install/)
 
 
