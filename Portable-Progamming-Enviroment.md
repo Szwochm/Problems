@@ -55,6 +55,12 @@ Someone recommended using [IODD ST400](https://www.youtube.com/watch?v=ZSywLblIY
 
 ### I know in the past, using a bootable usb had issues connecting to the internet because different workstations have different hardware and drivers associated. Is this still an issue?
 
+No answer
+
+### Docker on Windows needs virtualization enabled as well as WSL 2 or Hyper-v. Is this feasible for using on school computers?
+
+No answer
+
 
 
 ## References
