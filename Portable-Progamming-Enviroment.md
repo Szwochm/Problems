@@ -42,6 +42,17 @@ No answer yet.
 
 3. Can I plug this into any computer with docker and it works reasonably well?
 
+
+## Proposed Solution \#2 Run Environment on Bootable drives
+
+Someone recommended using [IODD ST400](https://www.youtube.com/watch?v=ZSywLblIYa0)
+
+## Problems
+
+### I know in the past, using a bootable usb had issues connecting to the internet because different workstations have different hardware and drivers associated. Is this still an issue?
+
+
+
 ## References
 
 
