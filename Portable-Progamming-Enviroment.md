@@ -12,14 +12,14 @@
 
 ### Do docker containers use less resources than hosting a vm?
 
-Yes, according to [1](https://www.backblaze.com/blog/vm-vs-containers/), the following is a comparison of docker vs VMs. **However, on Windows, docker uses [boot2docker](https://youtu.be/aLipr7tTuA4?t=353) which hosts a virtualbox vm...
+Yes, according to [1](https://www.backblaze.com/blog/vm-vs-containers/), the following is a comparison of docker vs VMs. ** However, on Windows, docker uses [WSL2](https://docs.docker.com/desktop/install/windows-install/)
 
 
 ![image](https://user-images.githubusercontent.com/1501624/213533002-a7335042-6c52-42bd-bf0a-0d4a4007957e.png)
 
 ### Is the Windows docker still faster than hosting a VM
 
-No answer yet.
+No answer yet. Annecdotally people on [dockers forums](https://docs.docker.com/search/?q=windows%20slow) complained that windows is 2x slower on docker than on a hosted vm. Something to look into later if I have performance issues.
 
 ### Can I run the same containers on both Windows and Linux?
 
@@ -44,7 +44,6 @@ No answer yet.
 
 ## References
 
-[MicroNugget: What is Docker and How Does it Work? | CBT Nuggets](https://www.youtube.com/watch?v=aLipr7tTuA4)
 
 [Docker Vs VM -backblaze.com](https://www.backblaze.com/blog/vm-vs-containers/)
 
