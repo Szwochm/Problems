@@ -19,9 +19,20 @@ Yes, according to [1](https://www.backblaze.com/blog/vm-vs-containers/), the fol
 
 ### Can I run the same containers on both Windows and Linux?
 
+I believe so. According to [dockers documentation](https://docs.docker.com/engine/faq/#:~:text=You%20can%20run%20both%20Linux,on%20Linux%2C%20Windows%20and%20macOS.) "You can run both Linux and Windows programs and executables in Docker containers. The Docker platform runs natively on Linux (on x86-64, ARM and many other CPU architectures) and on Windows (x86-64)."  This seems to imply some sort of cross-compatibility but doesn't exactly answer the question.
+
 ### Is there any problems associated with running Programming Enviroments on containers?
+
+There are some security concerns with libraries, and the lack of isolation docker provides vs a VM
 
 ### Is there docker container support for the IDEs specified?
 
 
+## Prototype - Lets try it with the most supported IDE, see how its goes.
+
+1. Does it work on both my laptop and desktop?
+
+2. Does it work on both linux and desktop?
+
+3. Can I plug this into any computer with docker and it works reasonably well?
 
