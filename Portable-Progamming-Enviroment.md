@@ -12,7 +12,7 @@
 
 ### Do docker containers use less resources than hosting a vm?
 
-Yes, according to [1](https://www.backblaze.com/blog/vm-vs-containers/), the following is a comparison of docker vs VMs. **Note on Windows, docker uses [WSL2](https://docs.docker.com/desktop/install/windows-install/)
+Yes, according to [1](https://www.backblaze.com/blog/vm-vs-containers/), the following is a comparison of docker vs VMs. **Note on Windows, docker uses [WSL2](https://docs.docker.com/desktop/install/windows-install/) or hyper-v. 
 
 
 ![image](https://user-images.githubusercontent.com/1501624/213533002-a7335042-6c52-42bd-bf0a-0d4a4007957e.png)
@@ -32,6 +32,8 @@ There are some security concerns with libraries, and the lack of isolation docke
 ### Is there docker container support for the IDEs specified?
 
 No answer yet.
+
+### Can I run this on school computers? Docker on Windows needs virtualization. Not sure if the school computers have docker running.
 
 
 ## Prototype - Lets try it with the most supported IDE, see how its goes.
