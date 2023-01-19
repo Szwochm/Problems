@@ -8,11 +8,20 @@ Intellij, Android Studio, Eclipse, and Visual Code.
 
 ## Proposed Solution \#1 Docker Containers
 
-##Questions to answer:
+## Questions to answer:
 
-Do docker containers use less resources than hosting a vm?
+### Do docker containers use less resources than hosting a vm?
 
 Yes, according to [1](https://www.backblaze.com/blog/vm-vs-containers/), the following is a comparison of docker vs VMs
 
+![image](https://user-images.githubusercontent.com/1501624/213533002-a7335042-6c52-42bd-bf0a-0d4a4007957e.png)
 
-Possible problems 
+
+### Can I run the same containers on both Windows and Linux?
+
+### Is there any problems associated with running Programming Enviroments on containers?
+
+### Is there docker container support for the IDEs specified?
+
+
+
