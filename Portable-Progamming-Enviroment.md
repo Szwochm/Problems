@@ -14,9 +14,10 @@
 
 Yes, according to [1](https://www.backblaze.com/blog/vm-vs-containers/), the following is a comparison of docker vs VMs. **However, on Windows, docker uses [boot2docker](https://youtu.be/aLipr7tTuA4?t=353) which hosts a virtualbox vm...
 
-### Is the Windows docker still faster than hosting a VM
 
 ![image](https://user-images.githubusercontent.com/1501624/213533002-a7335042-6c52-42bd-bf0a-0d4a4007957e.png)
+
+### Is the Windows docker still faster than hosting a VM
 
 
 ### Can I run the same containers on both Windows and Linux?
