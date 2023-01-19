@@ -19,6 +19,7 @@ Yes, according to [1](https://www.backblaze.com/blog/vm-vs-containers/), the fol
 
 ### Is the Windows docker still faster than hosting a VM
 
+No answer yet.
 
 ### Can I run the same containers on both Windows and Linux?
 
@@ -29,6 +30,8 @@ I believe so. According to [dockers documentation](https://docs.docker.com/engin
 There are some security concerns with libraries, and the lack of isolation docker provides vs a VM
 
 ### Is there docker container support for the IDEs specified?
+
+No answer yet.
 
 
 ## Prototype - Lets try it with the most supported IDE, see how its goes.
