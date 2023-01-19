@@ -36,3 +36,8 @@ There are some security concerns with libraries, and the lack of isolation docke
 
 3. Can I plug this into any computer with docker and it works reasonably well?
 
+## References
+
+[MicroNugget: What is Docker and How Does it Work? | CBT Nuggets](https://www.youtube.com/watch?v=aLipr7tTuA4)
+
+
